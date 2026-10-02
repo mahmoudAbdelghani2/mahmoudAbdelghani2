@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=800&lines=Hi,+I'm+Mahmoud+Abdelghani!+👋;Senior+Computer+Systems+Engineering+Student+🎓;Cross-Platform+Mobile+Developer+(Flutter)+📱;Competitive+Programmer+&+Problem+Solver+💻;Generative+AI+Enthusiast+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=800&lines=Hi,+I'm+Mahmoud+Abdelghani!+👋;Computer+&+Systems+Engineering+Student+🎓;Building+Scalable+Mobile+Applications+📱;Competitive+Programmer+&+Problem+Solver+💻;Generative+AI+Explorer+🤖" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,18 +10,59 @@
 
 ## 💫 The Developer Behind The Code
 
-I am a passionate **Software Engineer** specializing in cross-platform mobile application development using **Flutter and Dart**. As a Computer & Systems Engineering student at Zagazig University, I blend strong foundational knowledge in algorithms and competitive programming with modern mobile architecture to build clean, scalable, and intelligent applications.
+I am a passionate **Software Engineer** specializing in scalable cross-platform mobile application development using **Flutter and Dart**. As a Computer & Systems Engineering student at Zagazig University ('27), I blend strong foundational knowledge in algorithms and data structures with modern mobile architecture to build clean, maintainable, and intelligent applications.
 
-* 🔭 **Currently Building:** Production-ready mobile apps focusing on Clean Architecture, BLoC/Cubit, and responsive UI/UX.
-* 🌱 **Currently Expanding In:** Generative AI fundamentals, LLMs, and Prompt Engineering (ITI & NVIDIA GenAI Program).
-* 👯 **Community & Mentorship:** Mobile Development Mentor at IEEE Brand Ambassadors Program.
-* ⚡ **Dev Philosophy:** I believe in writing code that is not just functional, but readable, maintainable, and highly optimized.
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ [Ma3refa Mobile](https://github.com/Ma3refa-GP-IEEE/ma3refa-mobile) | IEEE Graduation Project
+*An interactive, AI-powered quiz and personalized learning application built from scratch in just 10 days.*
+- **Architecture:** Feature-Based Architecture with a centralized `core` layer.
+- **Tech Stack:** Flutter, BLoC/Cubit, Dio, GetIt (DI), Secure Storage, Figma.
+- **Highlights:** Built a custom quiz engine (timed/untimed) with complex state management and fully designed the UI/UX independently.
+
+### 2️⃣ [Sampark Chat App](https://github.com/abdulrahman-hussieni/SwiftChat) | DEPI Graduation Project
+*A scalable real-time messaging platform supporting one-to-one and group chats with multimedia sharing.*
+- **Tech Stack:** Flutter, GetX, Firebase (Firestore, Auth, Storage, Cloud Messaging).
+- **Highlights:** Engineered secure user authentication and comprehensive group chat functionalities, ensuring seamless real-time data synchronization.
+
+### 3️⃣ [Laza — E-Commerce App](https://github.com/mahmoudAbdelghani2/E_Commerce_App) | ITI Graduation Project
+*A full-featured modern e-commerce mobile application.*
+- **Tech Stack:** Flutter, BLoC/Cubit, Firebase Auth, Cloud Firestore, Lottie.
+- **Highlights:** Real-time cart & wishlist management, product reviews, caching, and a responsive Material 3 UI.
+
+### 4️⃣ [Laser Setter](https://github.com/mahmoudAbdelghani2/Laser_Setter) | Hardware Integration
+*A mobile control interface for a hardware-based laser leveling system.*
+- **Tech Stack:** Flutter, Bluetooth Serial Communication, Arduino, C++.
+- **Highlights:** Bridged software with hardware by sending precise real-time angular data to servo motors for remote laser positioning.
+
+---
+
+## 🧠 Currently Exploring
+
+- 📱 **Advanced Flutter Architecture** (Clean Architecture, SOLID, Testing)
+- 🤖 **Generative AI & LLM Applications** (Prompt Engineering, API Integration)
+- 🧩 **Algorithms & Competitive Programming** (C++, Python)
+- ☁ **Backend Development & Databases** (SQL, Firebase, Supabase)
+
+---
+
+## 🏆 Achievements & Community
+
+- 📱 **Mobile Development Mentor** — IEEE Brand Ambassadors Program
+- 🤖 **GenAI Trainee** — ITI × NVIDIA Mentorship Program
+- 🎯 **Competitive Programming Trainee** — ICPC Zagazig Community (Level 0 & 1)
+- 🚀 **Hackathon Participant** — NASA Space Apps Challenge Cairo 2025 (Weather App)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/mahmoudAbdelghani2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://mahmoudabdelghani2.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
@@ -31,9 +72,6 @@ I am a passionate **Software Engineer** specializing in cross-platform mobile ap
   <a href="https://wa.me/201001373691" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://facebook.com/mahmoud.abdelghani22" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="mailto:mahmoudabdelgani346@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -41,30 +79,16 @@ I am a passionate **Software Engineer** specializing in cross-platform mobile ap
 
 ---
 
-## 💻 Tech Stack & Expertise
+## 💻 Tech Stack
 
-### 📱 Core Focus: Mobile Development
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### ⚙️ Engineering & Problem Solving (The Foundation)
-<p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-
-### 🤖 AI, Data & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Gen_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -93,12 +117,6 @@ I am a passionate **Software Engineer** specializing in cross-platform mobile ap
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoudAbdelghani2&theme=dark&hide_border=false&layout=compact" width="48%" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mahmoud10Abdelghani7&theme=dark&show_icons=true&hide_border=false" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
