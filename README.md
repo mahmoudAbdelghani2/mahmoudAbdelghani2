@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mahmoud+Abdelghani!+👋;Cross-Platform+Mobile+Developer+📱;Competitive+Programmer+💻;Generative+AI+Enthusiast+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=800&lines=Hi,+I'm+Mahmoud+Abdelghani!+👋;Senior+Computer+Systems+Engineering+Student+🎓;Cross-Platform+Mobile+Developer+(Flutter)+📱;Competitive+Programmer+&+Problem+Solver+💻;Generative+AI+Enthusiast+🤖" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Boy">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding Boy">
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 The Developer Behind The Code
 
-* 🔭 **I’m currently working on:** Building production-ready cross-platform mobile apps with Flutter & Dart.
-* 👯 **I’m looking to collaborate on:** Innovative mobile applications and open-source Flutter projects.
-* 🤝 **I’m looking for help with:** Advanced mobile architecture patterns and backend optimization.
-* 🌱 **I’m currently learning:** Clean Architecture, SOLID principles, and advanced mobile performance tuning.
-* 💬 **Ask me about:** Flutter, Dart, BLoC/Cubit, Firebase, and competitive programming.
-* ⚡ **Fun fact:** I can spend hours fixing a 1-pixel UI overflow and still love Flutter!
+I am a passionate **Software Engineer** specializing in cross-platform mobile application development using **Flutter and Dart**[cite: 2]. As a Computer & Systems Engineering student at Zagazig University[cite: 2], I blend strong foundational knowledge in algorithms and competitive programming[cite: 2] with modern mobile architecture to build clean, scalable, and intelligent applications[cite: 2].
+
+* 🔭 **Currently Building:** Production-ready mobile apps focusing on Clean Architecture, BLoC/Cubit, and responsive UI/UX[cite: 2].
+* 🌱 **Currently Expanding In:** Generative AI fundamentals, LLMs, and Prompt Engineering (ITI & NVIDIA GenAI Program)[cite: 2, 3].
+* 👯 **Community & Mentorship:** Mobile Development Mentor at IEEE Brand Ambassadors Program[cite: 3].
+* ⚡ **Dev Philosophy:** I believe in writing code that is not just functional, but readable, maintainable, and highly optimized.
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://mahmoudabdelghani2.github.io/Portfolio/" target="_blank">
@@ -34,12 +34,6 @@
   <a href="https://facebook.com/mahmoud.abdelghani22" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/m_abdelghani2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/m_abdelghani2" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
   <a href="mailto:mahmoudabdelgani346@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -47,26 +41,47 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack & Expertise
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 📱 Core Focus: Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-### 💻 Programming Languages & Problem Solving
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### ⚙️ Engineering & Problem Solving (The Foundation)
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
 
-### 🤖 AI & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🛠️ Tools & Environments
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🤖 AI, Data & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Gen_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-# 📊 Stats & Trophies
+## 🐍 My Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudAbdelghani2/mahmoudAbdelghani2/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudAbdelghani2/mahmoudAbdelghani2/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahmoudAbdelghani2/mahmoudAbdelghani2/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📊 Analytics & Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mahmoudAbdelghani2&show_icons=true&theme=dark&hide_border=false" width="48%" />
@@ -84,12 +99,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahmoudAbdelghani2&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
