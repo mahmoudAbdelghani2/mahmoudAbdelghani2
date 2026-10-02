@@ -114,16 +114,16 @@ I am a **Computer & Systems Engineering student at Zagazig University ('27)** wi
 ## 📊 Analytics & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mahmoudAbdelghani2&show_icons=true&theme=dark&hide_border=false" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=mahmoudAbdelghani2&theme=dark&hide_border=false" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudAbdelghani2&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mahmoudAbdelghani2&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoudAbdelghani2&theme=dark&hide_border=false&layout=compact" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudAbdelghani2&layout=compact&theme=tokyonight&hide_border=true" height="185" alt="Top Languages" />
   <a href="https://codeforces.com/profile/Mahmoud10Abdelghani7">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mahmoud10Abdelghani7&theme=dark&show_icons=true&hide_border=false" height="195" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mahmoud10Abdelghani7&theme=tokyonight&show_icons=true&hide_border=true" height="185" alt="Codeforces Stats" />
   </a>
 </div>
 
