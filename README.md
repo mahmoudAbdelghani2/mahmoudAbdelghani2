@@ -1,17 +1,27 @@
-# 💫 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mahmoud+Abdelghani!+👋;Cross-Platform+Mobile+Developer+📱;Competitive+Programmer+💻;Generative+AI+Enthusiast+🤖" alt="Typing SVG" />
+</div>
 
-- 🔭 **I’m currently working on:** Building production-ready cross-platform mobile apps with Flutter & Dart.
-- 👯 **I’m looking to collaborate on:** Innovative mobile applications and open-source Flutter projects.
-- 🤝 **I’m looking for help with:** Advanced mobile architecture patterns and backend optimization.
-- 🌱 **I’m currently learning:** Clean Architecture, SOLID principles, and advanced mobile performance tuning.
-- 💬 **Ask me about:** Flutter, Dart, BLoC/Cubit, Firebase, and competitive programming.
-- ⚡ **Fun fact:** I can spend hours fixing a 1-pixel UI overflow and still love Flutter!
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Boy">
+</div>
 
 ---
 
-## 🌐 Connect with Me:
+# 💫 About Me
 
-<p align="left">
+* 🔭 **I’m currently working on:** Building production-ready cross-platform mobile apps with Flutter & Dart.
+* 👯 **I’m looking to collaborate on:** Innovative mobile applications and open-source Flutter projects.
+* 🤝 **I’m looking for help with:** Advanced mobile architecture patterns and backend optimization.
+* 🌱 **I’m currently learning:** Clean Architecture, SOLID principles, and advanced mobile performance tuning.
+* 💬 **Ask me about:** Flutter, Dart, BLoC/Cubit, Firebase, and competitive programming.
+* ⚡ **Fun fact:** I can spend hours fixing a 1-pixel UI overflow and still love Flutter!
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
   <a href="https://mahmoudabdelghani2.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
@@ -40,52 +50,34 @@
 # 💻 Tech Stack
 
 ### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 💻 Programming Languages & Problem Solving
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### 🤖 AI, Machine Learning & Data
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🤖 AI & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🗄️ Databases & Backend
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🛠️ Tools & Environments
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Stats & Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mahmoudAbdelghani2&show_icons=true&theme=dark&hide_border=false" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=mahmoudAbdelghani2&theme=dark&hide_border=false" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoudAbdelghani2&theme=dark&hide_border=false&layout=compact" width="48%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mahmoud10Abdelghani7&theme=dark&show_icons=true&hide_border=false" width="48%" />
 </div>
 
 <br/>
