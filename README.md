@@ -10,11 +10,11 @@
 
 ## 💫 The Developer Behind The Code
 
-I am a passionate **Software Engineer** specializing in cross-platform mobile application development using **Flutter and Dart**[cite: 2]. As a Computer & Systems Engineering student at Zagazig University[cite: 2], I blend strong foundational knowledge in algorithms and competitive programming[cite: 2] with modern mobile architecture to build clean, scalable, and intelligent applications[cite: 2].
+I am a passionate **Software Engineer** specializing in cross-platform mobile application development using **Flutter and Dart**. As a Computer & Systems Engineering student at Zagazig University, I blend strong foundational knowledge in algorithms and competitive programming with modern mobile architecture to build clean, scalable, and intelligent applications.
 
-* 🔭 **Currently Building:** Production-ready mobile apps focusing on Clean Architecture, BLoC/Cubit, and responsive UI/UX[cite: 2].
-* 🌱 **Currently Expanding In:** Generative AI fundamentals, LLMs, and Prompt Engineering (ITI & NVIDIA GenAI Program)[cite: 2, 3].
-* 👯 **Community & Mentorship:** Mobile Development Mentor at IEEE Brand Ambassadors Program[cite: 3].
+* 🔭 **Currently Building:** Production-ready mobile apps focusing on Clean Architecture, BLoC/Cubit, and responsive UI/UX.
+* 🌱 **Currently Expanding In:** Generative AI fundamentals, LLMs, and Prompt Engineering (ITI & NVIDIA GenAI Program).
+* 👯 **Community & Mentorship:** Mobile Development Mentor at IEEE Brand Ambassadors Program.
 * ⚡ **Dev Philosophy:** I believe in writing code that is not just functional, but readable, maintainable, and highly optimized.
 
 ---
@@ -98,7 +98,7 @@ I am a passionate **Software Engineer** specializing in cross-platform mobile ap
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudAbdelghani2&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
